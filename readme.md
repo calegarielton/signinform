@@ -1,6 +1,6 @@
 # Projeto Formulário de SignIn
 
-Para ver o projeto ao vivo, [clique aqui](https://github.com/calegarielton/signinform)
+Para ver o projeto ao vivo, [clique aqui](https://calegarielton.github.io/signinform/)
 
 ![Projeto Preview](https://github.com/calegarielton/signinform/blob/master/assets/Screenshot.png?raw=true)
 
