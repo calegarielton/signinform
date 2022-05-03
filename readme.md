@@ -4,7 +4,7 @@ Para ver o projeto ao vivo, [clique aqui](https://calegarielton.github.io/signin
 
 ![Projeto Preview](https://github.com/calegarielton/signinform/blob/master/assets/Screenshot.png?raw=true)
 
-sss
+ssss
 
 Esse projeto foi realizado durante o curso Frontstar com o objetivo de aprender: html e css voltado para formulários.
 
